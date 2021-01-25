@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+Body
+{
+background-color:cyan;
+}
+</style>
+<body>
+
+<h1>Udemy Shotcut</h1>
+
+<a href="https://www.udemy.com">Open This to complete ur course</a>
+
+</body>
+</html>
